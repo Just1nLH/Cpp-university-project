@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Campus Cafeteria Ordering System.vcxproj" />
+  <Project Path="Campus Cafeteria Ordering System.vcxproj" Id="a374abd5-8719-4b25-8577-02dca073df1e" />
 </Solution>
