@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Cinema Ticket Booking System.vcxproj" />
+  <Project Path="Cinema Ticket Booking System.vcxproj" Id="feb984bc-da80-43d1-8d80-d983b929eb6a" />
 </Solution>
