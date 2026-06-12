@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Gym Weekly Attendance Analysis System.vcxproj" />
+  <Project Path="Gym Weekly Attendance Analysis System.vcxproj" Id="7242983f-af25-4a49-a881-189033d7e218" />
 </Solution>
